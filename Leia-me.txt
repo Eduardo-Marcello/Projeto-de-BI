@@ -1,1 +1,10 @@
-git remote add origin https://github.com/Eduardo-Marcello/Projeto-de-BI.git
+Projeto de BI com foco na utilização da linguagem R (Futuramente podendo receber atualização com a versão com Power BI)
+
+Organização da Pasta do projeto:
+	-> Códigos em R: Pasta onde estão guardados meus códigos em R, comentados.
+	-> Fontes: Arquivos xlsx puxados da fonte e os arquivos já tratados.
+	-> Vizualizações: Arquivos xlsx das vizualizações e imagens diretamente baixadas através dos códigos.
+	-> Relatório: Documento pdf onde eu conto como foi minha jornada na construção do projeto e as respostas que cheguei no momento.
+
+Observação 1: Esse projeto será atualizado futuramente com novas análises.
+Observação 2: Futuramente lançarei a versão usando o Power BI.
